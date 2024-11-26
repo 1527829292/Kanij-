@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Message for Kanij Fatema</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background: linear-gradient(to bottom, #ffdde1, #ee9ca7);
+      color: #333;
+      text-align: center;
+      padding: 20px;
+    }
+
+    .container {
+      margin: auto;
+      padding: 20px;
+      max-width: 600px;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    }
+
+    .title {
+      color: #e75480;
+    }
+
+    .highlight {
+      color: #e75480;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 class="title">Message for Kanij Fatema</h1>
+    <p>
+      Dear <span class="highlight">Kanij Fatema</span>,<br><br>
+      You are the brightest star in Class VIII, Roll No. 1. <br>
+      Your kindness, brilliance, and charm light up every room. If life were a program, you'd be the main function that brings everything together.<br><br>
+      With love and respect,<br>
+      Your admirer 💖
+    </p>
+  </div>
+</body>
+</html>
